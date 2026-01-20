@@ -24,6 +24,3 @@ styles.css
 main.js  
 assets/
 
-## 👩‍💻 Author
-Yasmine Reda  
-Front-End Developer
